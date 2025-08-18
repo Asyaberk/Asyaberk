@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" alt="MasterHead" />
+  <img src="https://camo.githubusercontent.com/851c8cc12cc06a0aaf9a207e49b0af0daabd1bcddace9250cec9d9e00088bce8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f4b6e6f776c656467655f49735f48756d616e5f486f6d65706167655f416e696d617465645f42616e6e65722e676966" alt="MasterHead" />
 </p>
 
 <h1 align="center">Hi ✨, I'm Asya Berk</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/39/38/77/3938775fa4484f170466ecfa6da4e662.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cfb24b48d003e80bdd3b589f7c0ea4f0ed13b9d26b40058db32f0d1a1ed9c52a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33392f33382f37372f33393338373735666134343834663137303436366563666136646134653636322e676966">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=asyaberk&label=Profile%20views&color=0e75b6&style=flat" alt="asyaberk" /> 
