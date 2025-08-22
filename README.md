@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=asyaberk&label=Profile%20views&color=0e75b6&style=flat" alt="asyaberk" /> 
 </p>
 
-- 🔭 I’m currently working on **nestjs-user-project**  
+- 🔭 I’m currently working on **nestjs-microservices-bookstore**  
 - 🌱 I’m currently learning **NestJS, Docker, Redis, Kafka**  
 - 📫 How to reach me **asyaberk@yahoo.com**  
 - ⚡ Fun fact **I push to main and pray 😌**
