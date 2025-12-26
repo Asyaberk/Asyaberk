@@ -6,9 +6,7 @@
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cfb24b48d003e80bdd3b589f7c0ea4f0ed13b9d26b40058db32f0d1a1ed9c52a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33392f33382f37372f33393338373735666134343834663137303436366563666136646134653636322e676966">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=asyaberk&label=Profile%20views&color=0e75b6&style=flat" alt="asyaberk" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asyaberk&label=Profile%20views&color=ff40ff&style=flat" alt="asyaberk" /> </p>
 
 - 🔭 I’m currently working on **nestjs-microservices-bookstore**  
 - 🌱 I’m currently learning **NestJS, Docker, Redis, Kafka**  
@@ -43,9 +41,9 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asyaberk&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="asyaberk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asyaberk&show_icons=true&locale=en&layout=compact" alt="asyaberk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asyaberk&show_icons=true&theme=synthwave&locale=en" alt="asyaberk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asyaberk&show_icons=true&locale=en" alt="asyaberk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyaberk&theme=highcontrast" alt="asyaberk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyaberk&theme=default" alt="asyaberk" /></p>
 
