@@ -45,5 +45,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asyaberk&show_icons=true&theme=synthwave&locale=en" alt="asyaberk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyaberk&theme=default" alt="asyaberk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyaberk&theme=highcontrast" alt="asyaberk" /></p>
 
